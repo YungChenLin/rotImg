@@ -4,4 +4,4 @@ A test project to rotate image efficiently
  1. support none compressed bmp file only
  2. An image file named test.bmp is in the folder named "build"
     for the demo 
- 3. Images of rotations form 0-359 degree will be generated
+ 3. Images of rotations form 0-359 degree can be set and saved
